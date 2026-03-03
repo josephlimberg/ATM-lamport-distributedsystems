@@ -1,0 +1,7 @@
+
+*.class
+
+.vscode/
+
+__pycache__/
+*.pyc
