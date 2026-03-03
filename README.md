@@ -1,6 +1,6 @@
 Implementación de sincronización de procesos y exclusión mutua usando Relojes de Lamport
-
-## 🎯 Descripción del Proyecto
+Implementation of process synchronization and mutual exclusion using Lamport Clocks
+## Descripción del Proyecto
 Este proyecto implementa un sistema distribuido que simula retiros bancarios concurrentes hacia una base de datos MySQL compartida. Su objetivo principal es aplicar modelos de sincronización para coordinar procesos y asegurar el acceso seguro a recursos mediante **Relojes Lógicos de Lamport** y un algoritmo de **exclusión mutua** centralizado.
 
 El sistema consta de:
